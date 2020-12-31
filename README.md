@@ -13,3 +13,7 @@ I developed a machine learning model to predict the occurence of heart disease i
 ## Modeling Ames, Iowa Housing Data (Regression)
 
 I developed a machine learning model to predict the cost of housing for the common Ames, Iowa housing dataset. The resultant stacked model was an ensemble of regularized linear regression and boosted trees models (XGBoost and LightGBM). The result was in the top 12 percent of submissions for this problem on kaggle.
+
+## Air Quality Analysis and Visualization with SQL (sql_air_quality_eda)
+
+Exploratory data analysis of California's air quality in 2019, showing the dependence on geographic location, month and climate.
