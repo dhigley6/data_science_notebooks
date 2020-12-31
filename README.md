@@ -1,6 +1,6 @@
-# toy_data_science
+# Data Science Notebooks
 
-This repository contains personal projects where I developed machine learning models and performed exploratory data analysis for common data sets. Each project is in its own folder in this repository, and is summarized below.
+This repository contains personal projects where I developed machine learning models and performed exploratory data analysis for various data sets. Each project is in its own folder in this repository, and is summarized below.
 
 ## Red Wine Quality Prediction (Regression)
 
